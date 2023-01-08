@@ -91,7 +91,7 @@
     margin-top: 250px;
     
 }
-.info-titel{
+.info-right{
     font-size: 50px;
     margin-bottom: 20px;
 }
@@ -184,7 +184,7 @@ align-items: center; */
     background-color: black;
     color: #ffff;
 }
-.footer-titel{
+.info-right{
     font-size: 60px;
     margin-bottom: 10px;
 }
