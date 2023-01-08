@@ -38,34 +38,8 @@
     font-size: 20px;
     
 }
-/* .banner-img{
-    position: absolute;
-        width: 1600px;
-        height: 809px;
-        left: 1600px;
-        top: 0px;
-        background-image: url("images/banner/banner1.png"); */
-/*  */
-/* .header{
-    display: flex;
-} */
 
 /* 2nd options */
-/* .info-section{
-   margin: 10px;
-   /* text-align: left; */
-   /* display: flex;
-   padding-right: 0;
-   padding-left: 10px;
-   align-items: center;
-   margin: 5px 200px; */
-   
-
-/* }
-.img-info{
-    margin-left: 100px;
-    
-} */ */
 
 .info-container{
     display: flex;
@@ -173,8 +147,8 @@
     align-items: center;
     justify-content: center;
     display: flex;
-    margin-left: 200px;   
-    margin-right: 200px;
+    margin-left: 300px;   
+    margin-right: 100px;
     border-radius: 30px;
 }
 .upper-color{
