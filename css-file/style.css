@@ -149,15 +149,32 @@
     font-size: 15px;
     text-align: center;
 }
+
 /* upper section */
+
 .upper{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* background-image: url("../images/gradient2.png"); */
     background-image: url("../images/watch.png");
+    width: 100vh;
+    mask-image: none;
    background-repeat: no-repeat;
+   margin-left: 250px;
+   text-align: left;
+
+}
+
+/* text-align: right;
+display: flex;
+justify-content: flex-end;
+align-items: center; */
+.upper-title{
+    font-size: 60px;
+    margin-left: auto;
 }
 /* footer Section */
 .footer-section{
@@ -176,7 +193,7 @@
     margin-bottom: 20px;
 }
 
-.fotter-item{
+.footer-item{
     font-size: 50px;
     padding-bottom: 10px;
 }
@@ -213,5 +230,5 @@
     margin-right: 10px;
 }
 .footer-last{
-    margin-right: auto;
+    margin-right: 30px;
 }
